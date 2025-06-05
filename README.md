@@ -10,3 +10,20 @@ An authentication project using the Express framework and rendering client side 
 - MySQL database connection for user storage
 - EJS templating for rendering views
 - Basic routing for home, login, register, secrets pages
+
+
+
+
+## instal dependencies
+
+npm install
+
+DB_HOST=your_host
+DB_USER=your_user
+DB_PASSWORD=your_password
+DB_NAME=your_database
+
+
+
+node/nodemon app.js
+
